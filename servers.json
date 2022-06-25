@@ -1,0 +1,15 @@
+{
+	"servers": [
+		{
+			"name": "Memorial",
+			"code": "yDA9feEUlLxSHLC7M6RUG79vkcrnB7dIudqH60WcuQzdP89oAQAAAA2",
+			"permission": [
+				"Any"
+			],
+			"id": "ca916fbf-07e7-48b7-b9da-87eb459cb90c",
+			"adminPermissions": [
+				"Any"
+			]
+		}
+	]
+}
